@@ -1,3 +1,3 @@
-public class HOLA {
-	hola
+public class ADIOS {
+	ADIOS
 }
